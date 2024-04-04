@@ -15,7 +15,7 @@ python -m venv .venv
 ```
 
 ## Aktywacja zmiennej środowiskowej (Windows) 
-### Założenie - pracuje na CMDER
+### Założenie - pracuje na CMDER (weź to do terminala w pycharmie wklej a później pip install to niżej xd)
 ```sh
 .venv/Scripts/activate
 ```
