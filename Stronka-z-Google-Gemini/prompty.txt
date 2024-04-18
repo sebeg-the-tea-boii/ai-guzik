@@ -1,0 +1,5 @@
+Stwórz stronę w języku HTML w oparciu o flexbox. Strona ma służyć przypominaniu użytkownikowi o tym, że trzeba cyklicznie opłacić faktury
+
+spróbuj dodać ładne marginesy do przycisków i je wyśrodkuj. Dodatkowo zmień kolorystykę na dark mode, aby nie raziła w oczy
+
+Dodaj delikatny akcent kolorystyczny aby wyróżnić status płatności.
